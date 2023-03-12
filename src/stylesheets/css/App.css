@@ -1,0 +1,9 @@
+header nav {
+  height: 10vh;
+  background-color: #000;
+  color: #fff;
+}
+main {
+  height: 90vh;
+  background-color: #808080;
+}
